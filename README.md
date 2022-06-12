@@ -11,5 +11,6 @@ v0.0.2 update: Changed the link to another version without ads.
 v0.0.3 update: Flash and stunt the user.
 
 ***WARNING!!!
-   symptoms include: SUDDEN LOSS OF VISION and STRUCTURAL DAMAGE TO EARS
-   DO NOT OPEN IT IF YOU WANT TO TROLL YOUR FRIENDS!!!***
+   symptoms include: SUDDEN LOSS OF VISION and STRUCTURAL DAMAGE TO EARS***
+   
+   ***DO NOT OPEN IT IF YOU ONLY WANT TO TROLL YOUR FRIENDS!!!***
