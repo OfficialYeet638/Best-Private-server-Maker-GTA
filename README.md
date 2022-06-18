@@ -10,6 +10,8 @@ v0.0.2 update: Changed the link to another version without ads.
 
 v0.0.3 update: Flash and stunt the user.
 
+v0.0.4 update: The flashing screen can't be turned off by spamming "Alt F4" now.
+
 *Most effective* with laptop users cause this program will change the brightness of laptop screen to ***MAX*** as well.(Not sure if it will works with PC monitor.
 
 ***WARNING!!!***
