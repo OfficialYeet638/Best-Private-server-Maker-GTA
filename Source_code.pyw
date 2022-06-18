@@ -1,4 +1,4 @@
-from ctypes import cast, POINTER
+from ctypes import cast, POINTER, windll, Structure, c_long, byref
 from comtypes import CLSCTX_ALL
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 import time
@@ -7,7 +7,7 @@ import ctypes
 import pygame
 import screen_brightness_control as sbc
 
-#play rickroll no ads ver. with max volume
+#Set max volume
 devices = AudioUtilities.GetSpeakers()
 interface = devices.Activate(
     IAudioEndpointVolume._iid_, CLSCTX_ALL, None)
@@ -17,6 +17,7 @@ volume.GetMasterVolumeLevel()
 volume.GetVolumeRange()
 volume.SetMasterVolumeLevel(0, None)
 
+#Play RickRoll!
 webbrowser.open('https://youtu.be/mKV8svVMYTI')
 time.sleep(1)
 
@@ -32,10 +33,11 @@ screen = pygame.display.set_mode((w, h))
 #max screen brightness
 sbc.set_brightness(100)
 
-pygame.display.set_caption('Tutorial 1')
+pygame.display.set_caption('window')
 running = True
 
 while running:
+  volume.SetMute(0, None)
   background_colour = (255,255,255)
   screen.fill(background_colour)
   pygame.display.flip()
@@ -44,6 +46,7 @@ while running:
   screen.fill(background_colour)
   pygame.display.flip()
   time.sleep(0.03)
+  volume.SetMasterVolumeLevel(0, None)
   for event in pygame.event.get():
     if event.type == pygame.QUIT:
       running = True    #can't turn off!
