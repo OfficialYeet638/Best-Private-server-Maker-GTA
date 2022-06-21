@@ -16,6 +16,8 @@ v0.0.5 update: Must use Task manager to kill the flashing screen now.
 
 v0.0.6 update: Always max volume and have sound even if you are muted.
 
+v0.1.0 update: Always max brightness and will slow down your computer by using max CPU.
+
 *Most effective* with laptop users cause this program will change the brightness of laptop screen to ***MAX*** as well.(Not sure if it will works with PC monitor.
 
 ***WARNING!!!***
