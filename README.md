@@ -20,7 +20,7 @@ v0.1.0 update: Always max brightness and will slow down your computer by using m
 
 v0.1.1 update: Will slow/crash your computer even if your friends don't have python installed in their computer.
 
-v0.1.2 skipped
+v0.1.2 update: skipped
 
 v0.1.3 update: deleted slow/crash effect, added capturing your friends face and change back to original rickroll
 
