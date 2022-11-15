@@ -11,6 +11,10 @@
 3. Send it to him/her and wait for him to open!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function includes: ***Force Software Unmute the speaker, MAX Volume and MAX Screen Brightness***
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 v0.0.2 update: Changed the link to another version without ads.
 
 v0.0.3 update: Flash and stunt the user.
