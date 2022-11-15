@@ -22,7 +22,7 @@ v0.1.1 update: Will slow/crash your computer even if your friends don't have pyt
 
 v0.1.2 update: skipped
 
-v0.1.3 update: deleted slow/crash effect, added capturing your friends face and change back to original rickroll
+v0.1.3 update: deleted slow/crash effect, added capturing your friends face and change back to original rickroll. Debugging the flash not working problem.
 
 *Most effective* with laptop users cause this program will change the brightness of laptop screen to ***MAX*** as well.(Not sure if it will works with PC monitor.
 
