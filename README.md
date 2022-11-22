@@ -33,7 +33,9 @@ v0.1.2 update: skipped
 
 v0.1.3 update: deleted slow/crash effect, added capturing your friends face and change back to original rickroll. Debugging the flash not working problem.
 
-Current Version: v0.1.3a update: fixed flash not working.
+v0.1.3a update: fixed flash not working.
+
+**Current Version** v0.1.4 update: deleted flash effect, change the method of diplaying Rickroll (web browser is not needed now) ***(No ads!!!)***
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
