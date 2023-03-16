@@ -41,7 +41,7 @@ player.set_fullscreen(True)
 player.set_media(media)
 player.play()
 
-# Wait for video to finish
+# Wait for video to finish & force max volume and brightness
 while True:
     state = player.get_state()
     if state == vlc.State.Ended or state == vlc.State.Error:
